@@ -89,4 +89,3 @@ char **_reallocdp(char **ptr, unsigned int old_size, unsigned int new_size)
 
 	return (newptr);
 }
-© 2022 Git
